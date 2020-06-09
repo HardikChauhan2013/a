@@ -1,0 +1,20 @@
+{
+  "name": "a",
+  "version": "1.0.1",
+  "description": "testone",
+  "main": "prerelease.js",
+  "scripts": {
+    "prerelease": "node prerelease.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HardikChauhan2013/a.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HardikChauhan2013/a/issues"
+  },
+  "homepage": "https://github.com/HardikChauhan2013/a#readme"
+}
